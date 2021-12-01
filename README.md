@@ -22,12 +22,12 @@
 # Общее число чтений
 ![Image alt](https://github.com/messlav/hse21_hw3/blob/main/imgs/Снимок%20экрана%202021-12-01%20в%2020.49.31.png)
 
-#Second part
+# Second part
 Link https://colab.research.google.com/drive/1EW53hhuyVlMhjFenBcgwQJziuWJl5QkR?usp=sharing
 # Screens
-![Image alt](Снимок экрана 2021-12-01 в 23.24.42.png)
-![Image alt](Снимок экрана 2021-12-01 в 23.24.51.png)
-![Image alt](Снимок экрана 2021-12-01 в 23.25.00.png)
-![Image alt](Снимок экрана 2021-12-01 в 23.26.07.png)
-![Image alt](Снимок экрана 2021-12-01 в 23.26.27.png)
-![Image alt](Снимок экрана 2021-12-01 в 23.26.32.png)
+![Image alt](https://github.com/messlav/hse21_hw3/blob/main/imgs/Снимок%20экрана%202021-12-01%20в%2023.24.42.png)
+![Image alt](https://github.com/messlav/hse21_hw3/blob/main/imgs/Снимок%20экрана%202021-12-01%20в%2023.24.51.png)
+![Image alt](https://github.com/messlav/hse21_hw3/blob/main/imgs/Снимок%20экрана%202021-12-01%20в%2023.25.00.png)
+![Image alt](https://github.com/messlav/hse21_hw3/blob/main/imgs/Снимок%20экрана%202021-12-01%20в%2023.26.07.png)
+![Image alt](https://github.com/messlav/hse21_hw3/blob/main/imgs/Снимок%20экрана%202021-12-01%20в%2023.26.27.png)
+![Image alt](https://github.com/messlav/hse21_hw3/blob/main/imgs/Снимок%20экрана%202021-12-01%20в%2023.26.32.png)
